@@ -42,7 +42,7 @@ docker run -it -e OpenAI_Key="< add you gpt4 keys here" -p 8000:8000 chatbot-tea
      ```
 	     {
 	    "response": " Sure, I'd be happy to help with that! First, let's break down the given equation: 16 + 4x = 10 + 14. We can simplify this to 4x = 24. Now, we can divide both sides by 4 to isolate x, giving us x = 6. So, the value of 8x would be 8 times 6, which is 48. Therefore, the correct answer is B) 6. Does that make sense?\n\nHere are some relevant YouTube videos for further reference:\n\n['https://www.youtube.com/watch?v=6OCkx2PIGjk&pp=ygUvU2VhcmNoIGZvciBZb3VUdWJlIHZpZGVvcyByZWxhdGVkIHRvOiBpbWFnZS5QTkc%3D', 'https://www.youtube.com/watch?v=s9pc1-qk-bE&pp=ygUvU2VhcmNoIGZvciBZb3VUdWJlIHZpZGVvcyByZWxhdGVkIHRvOiBpbWFnZS5QTkc%3D']\n\nHere are some relevant YouTube videos for further reference:\n\n['https://www.youtube.com/watch?v=6OCkx2PIGjk&pp=ygUvU2VhcmNoIGZvciBZb3VUdWJlIHZpZGVvcyByZWxhdGVkIHRvOiBpbWFnZS5QTkc%3D', 'https://www.youtube.com/watch?v=s9pc1-qk-bE&pp=ygUvU2VhcmNoIGZvciBZb3VUdWJlIHZpZGVvcyByZWxhdGVkIHRvOiBpbWFnZS5QTkc%3D']"
-	}
+		}
      ```
       
 
