@@ -35,7 +35,7 @@ docker run -it -e OpenAI_Key="< add you gpt4 keys here" -p 8000:8000 chatbot-tea
    - Request
      ```
      curl --location 'http://localhost:8000/chat/image' \
-	--form 'image=@"/C:/Users/shivang/Desktop/image.PNG"'
+		--form 'image=@"/C:/Users/shivang/Desktop/image.PNG"'
      ```
 
    - Response
