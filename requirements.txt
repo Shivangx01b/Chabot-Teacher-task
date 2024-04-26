@@ -5,3 +5,4 @@ langchain
 openai 
 python-multipart
 langchain-openai
+youtube_search
