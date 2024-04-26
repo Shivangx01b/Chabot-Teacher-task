@@ -58,12 +58,12 @@ docker run -it -e OpenAI_Key="< add you gpt4 keys here" -p 8000:8000 chatbot-tea
 		- Cache video links
 		- Cache image used
 
-        - Comments added for each step.
+    - Comments added for each step.
 
 
 ## Improvements
 
 	- Make code more modular (Using classes)
 	- Feedback loop to improve prompt (more agents)
-        - Make it async using redis and celery to handel scale
-        - Keep track of history to retain old convertations and improve the context if need
+    - Make it async using redis and celery to handel scale
+    - Keep track of history to retain old convertations and improve the context if need
