@@ -46,9 +46,6 @@ docker run -it -e OpenAI_Key="< add you gpt4 keys here" -p 8000:8000 chatbot-tea
      ```
       
 
-
-
-
 ## What we have
 	
 	- Abel to answer you qeustion 
